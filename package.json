@@ -1,0 +1,31 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot do WhatsApp que responde usando ChatGPT.",
+  "type": "commonjs",
+  "main": "src/whatsapp-api.js",
+  "scripts": {
+    "start": "node src/whatsapp-api.js"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^4.3.2",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "franc": "^6.2.0",
+    "franc-min": "^6.2.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.1",
+    "natural": "^8.0.1",
+    "openai": "^4.67.2",
+    "qrcode-terminal": "^0.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "socket.io-client": "^4.8.0",
+    "sqlite3": "^5.1.7",
+    "video.js": "^8.18.1",
+    "videojs-contrib-hls": "^5.15.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
