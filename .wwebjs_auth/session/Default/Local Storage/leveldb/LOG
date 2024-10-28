@@ -1,0 +1,27 @@
+2024/10/23-20:04:42.859 5b27 Reusing MANIFEST /home/ia/Desktop/whatsapp-bot-grupo-simon-main/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/23-20:04:42.859 5b27 Recovering log #22
+2024/10/23-20:04:42.863 5b27 Reusing old log /home/ia/Desktop/whatsapp-bot-grupo-simon-main/.wwebjs_auth/session/Default/Local Storage/leveldb/000022.log 
+2024/10/24-12:27:33.184 1152b Level-0 table #26: started
+2024/10/24-12:27:33.194 1152b Level-0 table #26: 13057 bytes OK
+2024/10/24-12:27:33.202 1152b Delete type=0 #22
+2024/10/25-10:26:40.180 1bb09 Level-0 table #28: started
+2024/10/25-10:26:40.187 1bb09 Level-0 table #28: 12745 bytes OK
+2024/10/25-10:26:40.195 1bb09 Delete type=0 #25
+2024/10/25-23:17:21.282 1f845 Level-0 table #30: started
+2024/10/25-23:17:21.288 1f845 Level-0 table #30: 14559 bytes OK
+2024/10/25-23:17:21.296 1f845 Delete type=0 #27
+2024/10/25-23:17:21.296 1f845 Compacting 4@0 + 1@1 files
+2024/10/25-23:17:21.304 1f845 Generated table #31@0: 119 keys, 4082 bytes
+2024/10/25-23:17:21.304 1f845 Compacted 4@0 + 1@1 files => 4082 bytes
+2024/10/25-23:17:21.312 1f845 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/25-23:17:21.312 1f845 Delete type=2 #26
+2024/10/25-23:17:21.312 1f845 Delete type=2 #23
+2024/10/25-23:17:21.312 1f845 Delete type=2 #20
+2024/10/25-23:17:21.312 1f845 Delete type=2 #28
+2024/10/25-23:17:21.312 1f845 Delete type=2 #30
+2024/10/26-20:49:45.728 269f8 Level-0 table #33: started
+2024/10/26-20:49:45.735 269f8 Level-0 table #33: 12279 bytes OK
+2024/10/26-20:49:45.742 269f8 Delete type=0 #29
+2024/10/27-20:09:26.904 2d1ff Level-0 table #35: started
+2024/10/27-20:09:26.910 2d1ff Level-0 table #35: 12837 bytes OK
+2024/10/27-20:09:26.918 2d1ff Delete type=0 #32
